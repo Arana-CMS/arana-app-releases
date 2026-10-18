@@ -12,7 +12,7 @@ Official release builds of **Arana**, the digital out-of-home (DOOH) signage pla
 | Platform | File | Link |
 |---|---|---|
 | Windows 10/11 (64-bit) | `arana-setup.exe` | [Download](https://github.com/Arana-CMS/arana-app-releases/releases/download/v1.0.5/arana.exe) |
-| Android | `arana.apk` | [Download](https://github.com/Arana-CMS/arana-app-releases/releases/download/v1.0.4/arana.apk) |
+| Android | `arana.apk` | [Download](https://github.com/Arana-CMS/arana-app-releases/releases/download/v1.0.5/arana.apk) |
 
 Older versions and release notes: [Releases](https://github.com/Arana-CMS/arana-app-releases/releases)
 
